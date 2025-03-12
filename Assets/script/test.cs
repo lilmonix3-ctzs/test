@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//²âÊÔ·ÖÖ§
 public class test : MonoBehaviour
 {
 
@@ -14,6 +14,8 @@ public class test : MonoBehaviour
 
 
        
+
+
 
 
 
